@@ -10,4 +10,4 @@ The key ideas:
 
 These scripts support the main work for cleaning the dataset, which is looking through keywords and items that are in the Maybe list to determine which requests should be in or out, and how to make that determination based on just the keywords. For this purpose, finditemswithword.py can be run to create a file with just requests that have a specific keyword, making that kind of analysis much easier. 
 
-I did ultimately use the results of these scripts, in the final.txt file, to use to train a module for NovelAI's Euterpe module. However, with the release of their official (experimental) instruct module, moving further with this became a much lower priority. 
+I did ultimately use the results of these scripts, in the final.txt file, to use to train a module for NovelAI's Euterpe model. However, with the release of their official (experimental) instruct module, moving further with this became a much lower priority. 
